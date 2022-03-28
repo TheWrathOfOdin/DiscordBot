@@ -156,23 +156,3 @@ client.on('message', message => {
 	}
 });
 
-client.on('message', message => {
-	if (message.content === 'bad bot') {
-		message.channel.send("Fuck you cunt, Hey👋 ladies💁‍♀️ 📷 Would 😍 you 👈 like 👍 to 2️⃣ get 😮 rich 💰💰💰 by running 🏃‍♀️🏃‍♀️ your 👈 own business 👩‍💼💼 from home 🏡 with just ☝ your phone? 📱🤳 Well 🤷‍♀️ you can't. 😂 Get 👏 a 👏 real 👏 job 👏 you 👏 stupid 👏 cunt ");
-	}
-});
-
-client.on('message', message => {
-	if (message.content === 'FUCK YOU STUPID BOT') {
-		message.channel.send("Isn't it sad to be here insulting a fucking robot who still gets more pussy than your sorry ass?");
-	}
-
-
-});
-
-client.on('message', message => {
-	if (message.content === 'I WANNA FUCKING KILL BANANABOT BY BURYING HIM INTO A HOLE ALIVE FORCING HIS MOUTH OPEN SHITTING IN IT THEN PULLING OUT HIS EYEBALLS WITH MY TONGUE THEN KILL HIM SLOWLY BY SUFFOCATING HIM WITH MY PISS GRADUALLY') {
-		message.channel.send("Did you really spend a full minute typing that shit? Fuckin weeb.");
-	}
-
-});
